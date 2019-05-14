@@ -1,0 +1,6 @@
+The meta-u2up-firewalld layer
+=============================
+
+Provides "firewalld" service.
+This "firewalld" recipe is based on recipe from the master branch of "meta-networking" layer.
+
